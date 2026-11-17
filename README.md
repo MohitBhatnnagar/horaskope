@@ -2,7 +2,7 @@
 
 An AI-powered consumer web platform that generates personalised horoscope readings. I built and launched it end to end: product definition, a two-stage AI pipeline, UX and go-to-market.
 
-**Live:** https://horaskope.lovable.app (built on Lovable)
+**Live:** https://www.horaskope.com (a complete, working product; originally built on Lovable)
 
 - About **11,000 user readings** served in beta.
 - **Two-stage AI pipeline** using DeepSeek and Claude Sonnet.
